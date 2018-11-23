@@ -5,12 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Console
+namespace ConsoleProgramm
 {
-    class Program
+    class ConsoleView
     {
         static void Main(string[] args)
-        {
+        {            
         }
     }
 }

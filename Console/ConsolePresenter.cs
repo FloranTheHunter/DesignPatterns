@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using DesignPatternLibrary;
 
-namespace Console
+namespace ConsoleProgramm
 {
     class ConsolePresenter : IPresenter
     {
